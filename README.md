@@ -1,2 +1,2 @@
 # rocketseat-todolist
-Projeto do evendo de java spring boot realizado pela Rocketseat
+Projeto do evento de java spring boot realizado pela Rocketseat
